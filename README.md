@@ -5,7 +5,7 @@ Currently, I work at Amigotech, where I'm involved in mobile app development
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassi.filho/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cassifilho)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassifilho&hide=javascript,html)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### 💻 Technologies 
 
