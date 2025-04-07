@@ -1,5 +1,5 @@
 ### 🤙 About Me
-Currently, I work at Amigotech, where I'm involved in mobile app development
+Currently, I work at Amigo Tech, where I'm involved in mobile app development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-de-moraes-cavalcanti-filho-551bb2276/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassi.filho/)
