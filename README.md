@@ -20,5 +20,6 @@ Currently, I work at Amigo Tech, where I'm involved in mobile app development
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 
